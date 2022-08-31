@@ -2,7 +2,7 @@
 ## Utilizando HTML, CSS e JavaScript
 Esse primeiro *challenge* desenvolvido durante o programa **ONE - Oracle Next Education**, tem  como objetivo a prática dos conteúdos ensinados no curso, base para criação de um **codificador/decodificador** de texto utilizando conhecimentos em **HTML**, **CSS** e **JavaScript**.
 
-### )O projeto
+### Como executei a tarefa
 Como é o primeiro código que desenvolvo, busquei a base de programação proposta pelo desenvolvedores da Alura e tentei manter o código o mais organizado possível.
 
 #### Na estrutura HTML modifiquei a fonte e algumas marcações de margem, espaços e ícones.  Não fui mais além, pois ainda devo avançar meu domínio de conhecimento em programação.
